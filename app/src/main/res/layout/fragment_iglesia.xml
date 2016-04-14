@@ -1,0 +1,31 @@
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.gabriel.practica4.Iglesia">
+
+    <!-- TODO: Update blank fragment layout -->
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        style = "@style/linearLayoutStyle">
+        <TextView
+            style = "@style/textViewStyle.Title"
+            android:text="@string/IGLESIA"
+            android:textColor="@color/blue"/>
+        <ImageView
+            style = "@style/imageViewStyle"
+            android:src="@drawable/iglesia"/>
+        <TextView
+            style = "@style/textViewStyle.Content"
+            android:text="@string/informacion_iglesia"
+            android:textColor="@color/maroon"/>
+
+
+    </LinearLayout>
+
+
+</FrameLayout>
+</ScrollView>

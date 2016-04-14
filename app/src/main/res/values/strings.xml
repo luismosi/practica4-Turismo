@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TURISMO</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cienaga">CIENAGA DE AYAPEL</string>
+    <string name="club">CLUB SAN MIGUEL</string>
+    <string name="IGLESIA">IGLESIA SAN JERONIMO</string>
+    <string name="bienvenido">BIENVENIDO AL MUNICIPIO DE AYAPEL CORDOBA.</string>
+     <string name="informacion_club">El club San Miguel es pionero en la zona de establecimiento
+         de alojamiento y recreación con una capacidad de hospedar 131 personas en acomodación múltiple.
+El club ofrece servicios de Restaurante, bar, piscinas, jacuzzi, billares,  caballos, parque infantil,
+         placa deportiva, juegos de mesa, amplias zonas verdes.
+Adicionalmente ofrece los servicios e instalaciones de la Marina San Miguel, ubicada a orillas de la
+         Ciénaga de Ayapel, cuenta con piscina, bar-restaurante, bicicletas marina, Jet ski; el salón
+         de la Marina ofrece opciones para realizar eventos sociales y académicos. </string>
+    <string name="informacion_cienaga">Ayapel Es considerado uno de los principales
+        centros turísticos del departamento de Córdoba, a través de su inmensa Ciénaga
+        rodeada por clubes lujosos en donde se aprecia la tranquilidad y armonía de sus habitantes.</string>
+    <string name="informacion_iglesia">La Iglesia de San Jerónimo se sitúa en Ayapel, municipio colombiano del
+        departamento de Córdoba. Construida de 1835 a 1935, lleva el nombre del patrón de la villa.
+Las fiestas celebradas son las de San Jerónimo y en Semana Santa, siendo el centro religioso y turístico de la zona.
+Fue declarada parte del Concejo Monumento Municipal y Patrimonio Cultural, Religioso, Histórico y Arquitectónico..</string>
+    <string name="title_activity_splash">Splash</string>
+</resources>

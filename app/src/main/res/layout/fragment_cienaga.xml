@@ -1,0 +1,31 @@
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/ayapel22"
+    tools:context="com.example.gabriel.practica4.Cienaga">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        style = "@style/linearLayoutStyle">
+        <TextView
+            style = "@style/textViewStyle.Title"
+            android:text="@string/cienaga"
+            android:textColor="@color/red"/>
+        <ImageView
+            style = "@style/imageViewStyle"
+            android:src="@drawable/cienaga"/>
+        <TextView
+            style = "@style/textViewStyle.Content"
+            android:text="@string/informacion_cienaga"
+            android:textColor="@color/green"/>
+
+
+    </LinearLayout>
+
+</FrameLayout>
+</ScrollView>

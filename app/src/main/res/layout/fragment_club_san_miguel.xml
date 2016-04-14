@@ -1,0 +1,29 @@
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.gabriel.practica4.ClubSanMiguel">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        style = "@style/linearLayoutStyle">
+        <TextView
+            style = "@style/textViewStyle.Title"
+            android:text="@string/club"
+            android:textColor="@color/red"/>
+        <ImageView
+            style = "@style/imageViewStyle"
+            android:src="@drawable/ayapel2"/>
+        <TextView
+            style = "@style/textViewStyle.Content"
+            android:text="@string/informacion_club"
+            android:textColor="@color/green"/>
+
+
+    </LinearLayout>
+
+</FrameLayout>
+</ScrollView>
